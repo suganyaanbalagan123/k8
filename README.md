@@ -1,5 +1,5 @@
 # k8
-
+Launched jenkins using kubernetees
 ![image](https://github.com/suganyaanbalagan123/k8/assets/133192593/741e79ae-923e-41fa-8d10-b9a15e443342)
 
 
@@ -8,5 +8,9 @@
 
 ![image](https://github.com/suganyaanbalagan123/k8/assets/133192593/b0be32c3-5430-49d1-a5ea-5043a06f82ff)
 
+
 ![image](https://github.com/suganyaanbalagan123/k8/assets/133192593/a6f7dfdc-17f1-48ce-97ed-da7da4b1b8ca)
 
+
+
+![image](https://github.com/suganyaanbalagan123/k8/assets/133192593/95017c11-7ee3-4255-86d9-32b8f6261e7f)
